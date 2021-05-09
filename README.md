@@ -60,7 +60,7 @@ git clone https://github.com/GilneiBarreto/projeto-sds3.git
 cd frontweb
 
 # instalar dependências
-yarn ou yarn install
+yarn install
 
 # executar o projeto
 yarn start
